@@ -14,6 +14,8 @@
 
 ##
 
+[![Facebook](https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "mailto:chamarakasun952@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
