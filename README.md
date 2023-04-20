@@ -13,7 +13,7 @@ All my coding projects are built from scratch, from planning and designing to so
 
 - 📫 Studied at **[Birmingham City University (UK)](https://www.bcu.ac.uk/) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)**        
 
-- 👨‍💻 All of my achievements are **BSc (Hons) Software Engineering Degree | SCQF Level 7, 8 & 9 | Oracal Foundation Associate || Data Analytics |
+- 👨‍💻 All of my achievements are **BSc (Hons) Software Engineering Degree | SCQF Level 7, 8 & 9 | Oracal Foundation Associate || Data Analytics |**
 
 - 💬 Ask me about **Java | React | Android**
 
