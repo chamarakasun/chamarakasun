@@ -27,6 +27,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarakasun&show_icons=true&locale=en&layout=compact" alt="chamarakasun"?color=black /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarakasun&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="chamarakasun" /></p>
+
+
 ![snake gif](https://github.com/chamarakasun/chamarakasun/blob/output/github-contribution-grid-snake.svg?color=black)
 
 
