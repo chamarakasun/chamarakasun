@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java Institute For Advance Technology | Uk Award (UK)**
 
-- 📫 Studied at [Birmingham City University](https://www.bcu.ac.uk/) (UK) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)          
+- 📫 Studied at **[Birmingham City University](https://www.bcu.ac.uk/) (UK) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)          
 
 - 👨‍💻 All of my projects are available at [www.nezzex.com](www.nezzex.com)
 
