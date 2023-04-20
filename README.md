@@ -27,7 +27,7 @@ All my coding projects are built from scratch, from planning and designing to so
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94726663534)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076104376990)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chamara_Ck)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Chamarakasunmypc)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-FFD300?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Chamarakasunmypc)
 <a href="https://www.nezzex.com" target="_blank"><img src="https://img.shields.io/badge/Nezzex-FF0000?style=for-the-badge&logo=nezzex&logoColor=white" target="_blank"></a>
 
 
