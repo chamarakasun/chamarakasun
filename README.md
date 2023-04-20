@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java | React | Android**
 
-- 📫 How to reach me **chamarakasun952@gmail.com**
+- 📫 How to reach me <a href = "mailto:chamarakasun952@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 
