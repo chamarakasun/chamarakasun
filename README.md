@@ -15,6 +15,8 @@
 ##
 
 [![Facebook](https://img.shields.io/badge/Facebook-FF0000?style=for-the-badge&logo=facebook&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
