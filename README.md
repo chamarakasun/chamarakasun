@@ -1,12 +1,13 @@
-# 🏄‍♂️ Chamara Kasun
-**`</Software Engineer/> (Developer/Creator)`**
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
-
-
-<h1 align="center">Chamara Kasun</h1>
-<h3 align="center"></Software Engineer/></h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamarakasun&label=Profile%20views&color=0e75b6&style=flat" alt="chamarakasun" /> </p>
+
+# 🏄‍♂️ Chamara Kasun 
+
+**`<Software Engineer/>`**
+
+I am a full-stack developer and content creator building a step-by-step invention in the digital world. Currently, I have completed my **BSc (Hons) in Software Engineering** from Birmingham City University, UK. And I have SCQF level 7 and 8 certificates and completed level 9 in software engineering, I am studying computer science for three years from 2020 to 2023 at Java Institute of Advanced Technology Sri Lanka.
+
+All my coding projects are built from scratch, from planning and designing to solving real-life problems with code. who am I Thank you so much for taking a moment to come here to get a better understanding of my coding projects.
+
 
 - 🌱 I’m currently learning **[Java Institute For Advance Technology](https://www.javainstitute.edu.lk/) | [Uk Award (UK)](https://ukawards.org.uk/)**
 
@@ -28,6 +29,7 @@ I'm an indie full-stack developer and content creator building my version of the
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076104376990)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chamara_Ck)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Chamarakasunmypc)
+<a href="https://www.nezzex.com" target="_blank"><img src="https://img.shields.io/badge/Nezzex-FF0000?style=for-the-badge&logo=nezzex&logoColor=white" target="_blank"></a>
 
 
 
