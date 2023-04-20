@@ -29,4 +29,5 @@
 
 ![snake gif](https://github.com/chamarakasun/chamarakasun/blob/output/github-contribution-grid-snake.svg?color=black)
 
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
