@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076104376990)
-[![Gmail](https://img.shields.io/badge/Gmail-#D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamarakasun952@gmail.com)
+<a href = "mailto:chamarakasun952@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076104376990)
 
 ##
