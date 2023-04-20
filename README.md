@@ -8,8 +8,8 @@
                              **Uk Award 
 
 - 📫 Studied at
--               **in Birmingham city University
--               **Scottish questions Authority
+-               **in Birmingham city University | Scottish questions Authority**
+-               
 
 - 👨‍💻 All of my projects are available at [www.nezzex.com](www.nezzex.com)
 
