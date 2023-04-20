@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamarakasun&label=Profile%20views&color=0e75b6&style=flat" alt="chamarakasun" /> </p>
 
-- 🌱 I’m currently learning **Java Institute For Advance Technology | Uk Award (UK)**
+- 🌱 I’m currently learning **[Java Institute For Advance Technology](https://www.javainstitute.edu.lk/) | [Uk Award (UK)](https://ukawards.org.uk/)**
 
-- 📫 Studied at **[Birmingham City University](https://www.bcu.ac.uk/) (UK) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)          
+- 📫 Studied at **[Birmingham City University (UK)](https://www.bcu.ac.uk/) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)**        
 
 - 👨‍💻 All of my projects are available at [www.nezzex.com](www.nezzex.com)
 
