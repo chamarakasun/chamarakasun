@@ -25,7 +25,7 @@
 
 [![An image of @chamara's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chamara)](https://holopin.io/@chamara)
 
-<p><img align="center" background color="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarakasun&show_icons=true&locale=en&layout=compact" alt="chamarakasun" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarakasun&show_icons=true&locale=en&layout=compact" alt="chamarakasun"?color=black /></p>
 
 ![snake gif](https://github.com/chamarakasun/chamarakasun/blob/output/github-contribution-grid-snake.gif)
 ![snake gif](https://github.com/chamarakasun/chamarakasun/blob/output/github-contribution-grid-snake.svg?color=black)
