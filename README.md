@@ -4,19 +4,33 @@
 
 **`<Software Engineer/>`**
 
-I am a full-stack developer and content creator building a step-by-step invention in the digital world. Currently, I have completed my **BSc (Hons) in Software Engineering** from Birmingham City University, UK. And I have SCQF level 7 and 8 certificates and completed level 9 in software engineering, I am studying computer science for three years from 2020 to 2023 at Java Institute of Advanced Technology Sri Lanka.
+As a passionate and dedicated software engineering professional, I hold a **Bachelor of Science with Honours in Software Engineering from Birmingham City University (UK),** which I completed in March 2023. Immediately after graduating, I embarked on my career as a **lecturer**, starting in March 2023. This role has allowed me to merge my love for software development with my enthusiasm for teaching and mentoring the next generation of engineers.
 
-All my coding projects are built from scratch, from planning and designing to solving real-life problems with code. who am I Thank you so much for taking a moment to come here to get a better understanding of my coding projects.
+During my academic journey from 2020 to 2023, I developed a robust foundation in software development, algorithm design, and systems architecture. My projects often involved collaborating with peers to design, develop, and deploy innovative software solutions. 
 
+In my current role as a lecturer, I have had the opportunity to design curricula, deliver lectures, and supervise practical lab sessions. My teaching philosophy emphasizes a hands-on approach, ensuring students gain practical experience alongside theoretical knowledge. I am especially proud of the student accomplishments I achieved through my teaching.
 
-- 🌱 I’m currently learning **[Java Institute For Advance Technology](https://www.javainstitute.edu.lk/) | [Uk Award (UK)](https://ukawards.org.uk/)**
+Key Skills:
 
-- 📫 Studied at **[Birmingham City University (UK)](https://www.bcu.ac.uk/) | [Scottish Qualifications Authority](https://www.sqa.org.uk/)**        
+ 👨‍💻-Proficient in multiple programming languages including Java, Python, Js <br/>
+ 👨‍💻-Experienced in software development methodologies such as Agile and Scrum <br/>
+ 👨‍💻-Strong understanding of data structures, algorithms, and software architecture <br/>
+ 👨‍💻-Excellent communication and mentoring skills, honed through lecturing and student interactions<br/>
 
-- 👨‍💻 All of my achievements are **BSc (Hons) Software Engineering Degree | SCQF Level 7, 8 & 9 | certified Oracal Foundation Associate | certified AWS Solution Architect - Associate From Alison | certified Data Analytics From Alison | certified  python programmer from University of Moratuwa**
+Educations:
 
+ 🎓- Graduated with Honours in Software Engineering from **[Birmingham City University (UK)](https://www.bcu.ac.uk/)**<br/>
+ 🎓- Graduated Professional Software Engineering SCQF Level 7 | 8 | 9 at **[Scottish Qualifications Authority (UK)](https://www.sqa.org.uk/)**<br/>
+ 🎓- Studied & Graduated Software Engineering Degree Program (Credit 960+) at **[Java Institute For Advance Technology Sri lanka](https://www.javainstitute.edu.lk/)**<br/>
+ 🎓- Studied & Certified Oracle Certified Associate (OCA) , Oracle Certified Professional (OCP) at **[Oracle University (USA) ](https://education.oracle.com/)**<br/>
+ 
+Achievements:
+
+ 📫- Successfully transitioned into a lecturing role immediately after graduation<br/>
+ 🌱- Developed and implemented new teaching materials that improved student engagement and understanding<br/>
+ 🌱- I am excited to continue growing in my career, leveraging my technical skills and passion for education to contribute meaningfully to the field of software engineering.<br/>
+    
 - 💬 Ask me about **Java | React | Android**
-
 
 ##
 
