@@ -19,6 +19,7 @@ Key Skills:
 
 Educations:
 
+ 🎓- Reading MPhil in **AI | Cyber Security | Bioinformatics** <br/>
  🎓- Graduated with Honours in Software Engineering from **[Birmingham City University (UK)](https://www.bcu.ac.uk/)**<br/>
  🎓- Graduated Professional Software Engineering SCQF Level 7 | 8 | 9 at **[Scottish Qualifications Authority (UK)](https://www.sqa.org.uk/)**<br/>
  🎓- Studied & Graduated Software Engineering Degree Program (Credit 960+) at **[Java Institute For Advance Technology Sri lanka](https://www.javainstitute.edu.lk/)**<br/>
